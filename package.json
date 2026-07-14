@@ -1,0 +1,19 @@
+{
+  "name": "discord-pterodactyl-admin",
+  "version": "1.0.0",
+  "private": true,
+  "description": "Discord bot for creating and safely deleting Pterodactyl servers.",
+  "type": "module",
+  "main": "src/index.js",
+  "scripts": {
+    "start": "node src/index.js",
+    "dev": "node --watch src/index.js"
+  },
+  "engines": {
+    "node": ">=20.10.0"
+  },
+  "dependencies": {
+    "discord.js": "^14.16.3",
+    "dotenv": "^16.4.5"
+  }
+}
