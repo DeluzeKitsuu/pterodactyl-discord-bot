@@ -1,5 +1,5 @@
 {
-  "name": "discord-pterodactyl-admin",
+  "name": "pterodactyl-discord-bot",
   "version": "1.0.0",
   "private": true,
   "description": "Discord bot for creating and safely deleting Pterodactyl servers.",
